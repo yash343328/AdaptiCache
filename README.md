@@ -86,11 +86,11 @@ Measures performance improvement over traditional policies.
 ---
 
 ## 📂 Project Structure
-
+```bash
 AdaptiCache/
 │── adapticache.c        # Main source code
 │── README.md            # Documentation
-
+```
 ---
 
 ## 🛠️ Installation
